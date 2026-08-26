@@ -5,4 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/kurakulaharshitha/Problem1/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/kurakulaharshitha/Problem1/tree/master/1189-maximum-number-of-balloons) |
+## String
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/kurakulaharshitha/Problem1/tree/master/1189-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/kurakulaharshitha/Problem1/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
