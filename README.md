@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/kurakulaharshitha/Problem1/tree/master/1046-last-stone-weight) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/kurakulaharshitha/Problem1/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kurakulaharshitha/Problem1/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/kurakulaharshitha/Problem1/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/kurakulaharshitha/Problem1/tree/master/0234-palindrome-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/kurakulaharshitha/Problem1/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
