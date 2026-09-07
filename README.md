@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/kurakulaharshitha/Problem1/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/kurakulaharshitha/Problem1/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/kurakulaharshitha/Problem1/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/kurakulaharshitha/Problem1/tree/master/0875-koko-eating-bananas) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/kurakulaharshitha/Problem1/tree/master/0222-count-complete-tree-nodes) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kurakulaharshitha/Problem1/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/kurakulaharshitha/Problem1/tree/master/0222-count-complete-tree-nodes) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kurakulaharshitha/Problem1/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0145-binary-tree-postorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/kurakulaharshitha/Problem1/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
