@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/kurakulaharshitha/Problem1/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/kurakulaharshitha/Problem1/tree/master/1189-maximum-number-of-balloons) |
+| [1544-make-the-string-great](https://github.com/kurakulaharshitha/Problem1/tree/master/1544-make-the-string-great) |
 ## Counting
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/kurakulaharshitha/Problem1/tree/master/0234-palindrome-linked-list) |
+| [1544-make-the-string-great](https://github.com/kurakulaharshitha/Problem1/tree/master/1544-make-the-string-great) |
 ## Prefix Sum
 |  |
 | ------- |
