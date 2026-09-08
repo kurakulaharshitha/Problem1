@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kurakulaharshitha/Problem1/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kurakulaharshitha/Problem1/tree/master/0222-count-complete-tree-nodes) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kurakulaharshitha/Problem1/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kurakulaharshitha/Problem1/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kurakulaharshitha/Problem1/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kurakulaharshitha/Problem1/tree/master/0222-count-complete-tree-nodes) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kurakulaharshitha/Problem1/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kurakulaharshitha/Problem1/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kurakulaharshitha/Problem1/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kurakulaharshitha/Problem1/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -169,4 +172,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kurakulaharshitha/Problem1/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/kurakulaharshitha/Problem1/tree/master/0199-binary-tree-right-side-view) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kurakulaharshitha/Problem1/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
