@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kurakulaharshitha/Problem1/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kurakulaharshitha/Problem1/tree/master/0160-intersection-of-two-linked-lists) |
+| [0771-jewels-and-stones](https://github.com/kurakulaharshitha/Problem1/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/kurakulaharshitha/Problem1/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/kurakulaharshitha/Problem1/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/kurakulaharshitha/Problem1/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/kurakulaharshitha/Problem1/tree/master/1189-maximum-number-of-balloons) |
 | [1544-make-the-string-great](https://github.com/kurakulaharshitha/Problem1/tree/master/1544-make-the-string-great) |
 ## Counting
