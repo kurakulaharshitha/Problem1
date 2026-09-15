@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/kurakulaharshitha/Problem1/tree/master/0118-pascals-triangle) |
 | [0875-koko-eating-bananas](https://github.com/kurakulaharshitha/Problem1/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kurakulaharshitha/Problem1/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/kurakulaharshitha/Problem1/tree/master/1046-last-stone-weight) |
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kurakulaharshitha/Problem1/tree/master/0836-rectangle-overlap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/kurakulaharshitha/Problem1/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
