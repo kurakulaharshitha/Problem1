@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kurakulaharshitha/Problem1/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/kurakulaharshitha/Problem1/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kurakulaharshitha/Problem1/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kurakulaharshitha/Problem1/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kurakulaharshitha/Problem1/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kurakulaharshitha/Problem1/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/kurakulaharshitha/Problem1/tree/master/3903-smallest-stable-index-i) |
 ## Depth-First Search
 |  |
@@ -224,4 +226,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/kurakulaharshitha/Problem1/tree/master/0118-pascals-triangle) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kurakulaharshitha/Problem1/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kurakulaharshitha/Problem1/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
