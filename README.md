@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kurakulaharshitha/Problem1/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kurakulaharshitha/Problem1/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/kurakulaharshitha/Problem1/tree/master/1046-last-stone-weight) |
+| [1254-number-of-closed-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/1254-number-of-closed-islands) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/kurakulaharshitha/Problem1/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3525-find-x-value-of-array-ii](https://github.com/kurakulaharshitha/Problem1/tree/master/3525-find-x-value-of-array-ii) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kurakulaharshitha/Problem1/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kurakulaharshitha/Problem1/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kurakulaharshitha/Problem1/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/1254-number-of-closed-islands) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kurakulaharshitha/Problem1/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kurakulaharshitha/Problem1/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kurakulaharshitha/Problem1/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/1254-number-of-closed-islands) |
 ## DP on Trees
 |  |
 | ------- |
@@ -264,9 +267,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/kurakulaharshitha/Problem1/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/kurakulaharshitha/Problem1/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kurakulaharshitha/Problem1/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kurakulaharshitha/Problem1/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
