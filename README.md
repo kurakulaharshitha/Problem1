@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/kurakulaharshitha/Problem1/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/kurakulaharshitha/Problem1/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/1254-number-of-closed-islands) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kurakulaharshitha/Problem1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/kurakulaharshitha/Problem1/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1920-build-array-from-permutation](https://github.com/kurakulaharshitha/Problem1/tree/master/1920-build-array-from-permutation) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/kurakulaharshitha/Problem1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0771-jewels-and-stones](https://github.com/kurakulaharshitha/Problem1/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/kurakulaharshitha/Problem1/tree/master/1189-maximum-number-of-balloons) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kurakulaharshitha/Problem1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## String
 |  |
@@ -288,4 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kurakulaharshitha/Problem1/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/kurakulaharshitha/Problem1/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/1254-number-of-closed-islands) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kurakulaharshitha/Problem1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kurakulaharshitha/Problem1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
