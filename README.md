@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/kurakulaharshitha/Problem1/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/kurakulaharshitha/Problem1/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/kurakulaharshitha/Problem1/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/kurakulaharshitha/Problem1/tree/master/1189-maximum-number-of-balloons) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kurakulaharshitha/Problem1/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kurakulaharshitha/Problem1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kurakulaharshitha/Problem1/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/kurakulaharshitha/Problem1/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/kurakulaharshitha/Problem1/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/kurakulaharshitha/Problem1/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/kurakulaharshitha/Problem1/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/kurakulaharshitha/Problem1/tree/master/0392-is-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kurakulaharshitha/Problem1/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Combinatorics
