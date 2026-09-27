@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kurakulaharshitha/Problem1/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kurakulaharshitha/Problem1/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/kurakulaharshitha/Problem1/tree/master/0875-koko-eating-bananas) |
+| [0922-sort-array-by-parity-ii](https://github.com/kurakulaharshitha/Problem1/tree/master/0922-sort-array-by-parity-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kurakulaharshitha/Problem1/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/kurakulaharshitha/Problem1/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/kurakulaharshitha/Problem1/tree/master/1046-last-stone-weight) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/kurakulaharshitha/Problem1/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/kurakulaharshitha/Problem1/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/kurakulaharshitha/Problem1/tree/master/0876-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/kurakulaharshitha/Problem1/tree/master/0922-sort-array-by-parity-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/kurakulaharshitha/Problem1/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/kurakulaharshitha/Problem1/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kurakulaharshitha/Problem1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
