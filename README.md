@@ -309,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/kurakulaharshitha/Problem1/tree/master/1534-count-good-triplets) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/kurakulaharshitha/Problem1/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
