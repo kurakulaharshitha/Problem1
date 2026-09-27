@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/kurakulaharshitha/Problem1/tree/master/1436-destination-city) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/kurakulaharshitha/Problem1/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1534-count-good-triplets](https://github.com/kurakulaharshitha/Problem1/tree/master/1534-count-good-triplets) |
 | [1920-build-array-from-permutation](https://github.com/kurakulaharshitha/Problem1/tree/master/1920-build-array-from-permutation) |
 | [3525-find-x-value-of-array-ii](https://github.com/kurakulaharshitha/Problem1/tree/master/3525-find-x-value-of-array-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kurakulaharshitha/Problem1/tree/master/3875-construct-uniform-parity-array-i) |
@@ -304,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kurakulaharshitha/Problem1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/kurakulaharshitha/Problem1/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
