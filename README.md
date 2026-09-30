@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kurakulaharshitha/Problem1/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/kurakulaharshitha/Problem1/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/kurakulaharshitha/Problem1/tree/master/1046-last-stone-weight) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/kurakulaharshitha/Problem1/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kurakulaharshitha/Problem1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/kurakulaharshitha/Problem1/tree/master/1436-destination-city) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kurakulaharshitha/Problem1/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kurakulaharshitha/Problem1/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kurakulaharshitha/Problem1/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/kurakulaharshitha/Problem1/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kurakulaharshitha/Problem1/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kurakulaharshitha/Problem1/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kurakulaharshitha/Problem1/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kurakulaharshitha/Problem1/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kurakulaharshitha/Problem1/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/kurakulaharshitha/Problem1/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kurakulaharshitha/Problem1/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Union-Find
