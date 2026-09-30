@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/kurakulaharshitha/Problem1/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/kurakulaharshitha/Problem1/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/kurakulaharshitha/Problem1/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/kurakulaharshitha/Problem1/tree/master/0771-jewels-and-stones) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kurakulaharshitha/Problem1/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kurakulaharshitha/Problem1/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/kurakulaharshitha/Problem1/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/kurakulaharshitha/Problem1/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kurakulaharshitha/Problem1/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kurakulaharshitha/Problem1/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kurakulaharshitha/Problem1/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/kurakulaharshitha/Problem1/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/kurakulaharshitha/Problem1/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kurakulaharshitha/Problem1/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kurakulaharshitha/Problem1/tree/master/0543-diameter-of-binary-tree) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kurakulaharshitha/Problem1/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/0200-number-of-islands) |
+| [0257-binary-tree-paths](https://github.com/kurakulaharshitha/Problem1/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/kurakulaharshitha/Problem1/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/kurakulaharshitha/Problem1/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kurakulaharshitha/Problem1/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -329,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kurakulaharshitha/Problem1/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/kurakulaharshitha/Problem1/tree/master/1084-sales-analysis-iii) |
 | [1179-reformat-department-table](https://github.com/kurakulaharshitha/Problem1/tree/master/1179-reformat-department-table) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/kurakulaharshitha/Problem1/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
