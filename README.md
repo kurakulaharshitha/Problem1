@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kurakulaharshitha/Problem1/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/kurakulaharshitha/Problem1/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/kurakulaharshitha/Problem1/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/kurakulaharshitha/Problem1/tree/master/0412-fizz-buzz) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kurakulaharshitha/Problem1/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/kurakulaharshitha/Problem1/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0144-binary-tree-preorder-traversal) |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/kurakulaharshitha/Problem1/tree/master/0257-binary-tree-paths) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kurakulaharshitha/Problem1/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
