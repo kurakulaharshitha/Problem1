@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kurakulaharshitha/Problem1/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/kurakulaharshitha/Problem1/tree/master/0463-island-perimeter) |
+| [0500-keyboard-row](https://github.com/kurakulaharshitha/Problem1/tree/master/0500-keyboard-row) |
 | [0695-max-area-of-island](https://github.com/kurakulaharshitha/Problem1/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kurakulaharshitha/Problem1/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/kurakulaharshitha/Problem1/tree/master/0875-koko-eating-bananas) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kurakulaharshitha/Problem1/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kurakulaharshitha/Problem1/tree/master/0160-intersection-of-two-linked-lists) |
+| [0500-keyboard-row](https://github.com/kurakulaharshitha/Problem1/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/kurakulaharshitha/Problem1/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/kurakulaharshitha/Problem1/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kurakulaharshitha/Problem1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/kurakulaharshitha/Problem1/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/kurakulaharshitha/Problem1/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/kurakulaharshitha/Problem1/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/kurakulaharshitha/Problem1/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/kurakulaharshitha/Problem1/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/kurakulaharshitha/Problem1/tree/master/1189-maximum-number-of-balloons) |
 | [1436-destination-city](https://github.com/kurakulaharshitha/Problem1/tree/master/1436-destination-city) |
