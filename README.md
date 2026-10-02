@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kurakulaharshitha/Problem1/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/kurakulaharshitha/Problem1/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/kurakulaharshitha/Problem1/tree/master/0463-island-perimeter) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kurakulaharshitha/Problem1/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/kurakulaharshitha/Problem1/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/kurakulaharshitha/Problem1/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/kurakulaharshitha/Problem1/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/kurakulaharshitha/Problem1/tree/master/0412-fizz-buzz) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kurakulaharshitha/Problem1/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kurakulaharshitha/Problem1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kurakulaharshitha/Problem1/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kurakulaharshitha/Problem1/tree/master/0101-symmetric-tree) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kurakulaharshitha/Problem1/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/kurakulaharshitha/Problem1/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/kurakulaharshitha/Problem1/tree/master/0695-max-area-of-island) |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kurakulaharshitha/Problem1/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/kurakulaharshitha/Problem1/tree/master/0257-binary-tree-paths) |
 ## Bracket Sequences
 |  |
