@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kurakulaharshitha/Problem1/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/kurakulaharshitha/Problem1/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3525-find-x-value-of-array-ii](https://github.com/kurakulaharshitha/Problem1/tree/master/3525-find-x-value-of-array-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kurakulaharshitha/Problem1/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kurakulaharshitha/Problem1/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
@@ -394,4 +395,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kurakulaharshitha/Problem1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kurakulaharshitha/Problem1/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
