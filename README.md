@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kurakulaharshitha/Problem1/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kurakulaharshitha/Problem1/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/kurakulaharshitha/Problem1/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/kurakulaharshitha/Problem1/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kurakulaharshitha/Problem1/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kurakulaharshitha/Problem1/tree/master/0238-product-of-array-except-self) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kurakulaharshitha/Problem1/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/kurakulaharshitha/Problem1/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/kurakulaharshitha/Problem1/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kurakulaharshitha/Problem1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/kurakulaharshitha/Problem1/tree/master/0217-contains-duplicate) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kurakulaharshitha/Problem1/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/kurakulaharshitha/Problem1/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/kurakulaharshitha/Problem1/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/kurakulaharshitha/Problem1/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/kurakulaharshitha/Problem1/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/kurakulaharshitha/Problem1/tree/master/0412-fizz-buzz) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kurakulaharshitha/Problem1/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kurakulaharshitha/Problem1/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kurakulaharshitha/Problem1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/kurakulaharshitha/Problem1/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/kurakulaharshitha/Problem1/tree/master/0392-is-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kurakulaharshitha/Problem1/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -422,4 +426,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/kurakulaharshitha/Problem1/tree/master/0134-gas-station) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kurakulaharshitha/Problem1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kurakulaharshitha/Problem1/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kurakulaharshitha/Problem1/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kurakulaharshitha/Problem1/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kurakulaharshitha/Problem1/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
