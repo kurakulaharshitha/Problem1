@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/kurakulaharshitha/Problem1/tree/master/1084-sales-analysis-iii) |
 | [1179-reformat-department-table](https://github.com/kurakulaharshitha/Problem1/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/kurakulaharshitha/Problem1/tree/master/1211-queries-quality-and-percentage) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/kurakulaharshitha/Problem1/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1934-confirmation-rate](https://github.com/kurakulaharshitha/Problem1/tree/master/1934-confirmation-rate) |
 ## Backtracking
 |  |
