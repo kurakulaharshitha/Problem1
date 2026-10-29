@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kurakulaharshitha/Problem1/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/kurakulaharshitha/Problem1/tree/master/1084-sales-analysis-iii) |
 | [1179-reformat-department-table](https://github.com/kurakulaharshitha/Problem1/tree/master/1179-reformat-department-table) |
+| [1934-confirmation-rate](https://github.com/kurakulaharshitha/Problem1/tree/master/1934-confirmation-rate) |
 ## Backtracking
 |  |
 | ------- |
