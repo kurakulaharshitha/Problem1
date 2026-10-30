@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kurakulaharshitha/Problem1/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kurakulaharshitha/Problem1/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/kurakulaharshitha/Problem1/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kurakulaharshitha/Problem1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kurakulaharshitha/Problem1/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/kurakulaharshitha/Problem1/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/kurakulaharshitha/Problem1/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/kurakulaharshitha/Problem1/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kurakulaharshitha/Problem1/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kurakulaharshitha/Problem1/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/kurakulaharshitha/Problem1/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/kurakulaharshitha/Problem1/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/0200-number-of-islands) |
