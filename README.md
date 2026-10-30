@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kurakulaharshitha/Problem1/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kurakulaharshitha/Problem1/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/kurakulaharshitha/Problem1/tree/master/0274-h-index) |
+| [0300-longest-increasing-subsequence](https://github.com/kurakulaharshitha/Problem1/tree/master/0300-longest-increasing-subsequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kurakulaharshitha/Problem1/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/kurakulaharshitha/Problem1/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/kurakulaharshitha/Problem1/tree/master/0500-keyboard-row) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kurakulaharshitha/Problem1/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/kurakulaharshitha/Problem1/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/kurakulaharshitha/Problem1/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/kurakulaharshitha/Problem1/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/kurakulaharshitha/Problem1/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kurakulaharshitha/Problem1/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kurakulaharshitha/Problem1/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kurakulaharshitha/Problem1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/kurakulaharshitha/Problem1/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/kurakulaharshitha/Problem1/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/kurakulaharshitha/Problem1/tree/master/0392-is-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kurakulaharshitha/Problem1/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -445,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kurakulaharshitha/Problem1/tree/master/0139-word-break) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/kurakulaharshitha/Problem1/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
