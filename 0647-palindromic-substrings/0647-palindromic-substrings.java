@@ -1,0 +1,23 @@
+class Solution {
+    
+  int count=0;
+    public int countSubstrings(String s) {
+        for(int i=0;i<s.length();i++)
+        {
+            expand(s,i,i);
+            expand(s,i,i+1);
+        }
+        return count;
+    }
+    public void  expand(String s, int left,int right)
+    {
+            while(left>=0 && right <s.length() && s.charAt(left)==s.charAt(right))
+            {
+                count+=1;
+                left-=1;
+                right+=1;
+            }
+        }
+    
+    
+}
