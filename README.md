@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kurakulaharshitha/Problem1/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/kurakulaharshitha/Problem1/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/kurakulaharshitha/Problem1/tree/master/0922-sort-array-by-parity-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/kurakulaharshitha/Problem1/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kurakulaharshitha/Problem1/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/kurakulaharshitha/Problem1/tree/master/1020-number-of-enclaves) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kurakulaharshitha/Problem1/tree/master/0217-contains-duplicate) |
 | [0500-keyboard-row](https://github.com/kurakulaharshitha/Problem1/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/kurakulaharshitha/Problem1/tree/master/0771-jewels-and-stones) |
+| [0930-binary-subarrays-with-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/kurakulaharshitha/Problem1/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kurakulaharshitha/Problem1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/kurakulaharshitha/Problem1/tree/master/1436-destination-city) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kurakulaharshitha/Problem1/tree/master/0238-product-of-array-except-self) |
+| [0930-binary-subarrays-with-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/0930-binary-subarrays-with-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kurakulaharshitha/Problem1/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/kurakulaharshitha/Problem1/tree/master/3903-smallest-stable-index-i) |
 ## Depth-First Search
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/0209-minimum-size-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/0930-binary-subarrays-with-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Segment Tree
 |  |
