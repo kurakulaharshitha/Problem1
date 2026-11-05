@@ -1,21 +1,27 @@
-import java.util.*;
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-        HashMap<Integer,Integer> hs=new HashMap<>();
-        int count=0;
-        int prefixsum=0;
-        hs.put(0,1);
-        for(int num:nums)
+        
+        return atmost(nums,goal)-atmost(nums,goal-1);
+    }
+    public int atmost(int[] nums,int k)
+    {
+        if(k<0)
         {
-            prefixsum+=num;
-            int rem=prefixsum-goal;
-            if(hs.containsKey(rem))
+            return 0;
+        }
+        int left=0;
+        int sum=0;
+        int count=0;
+        for(int right=0;right<nums.length;right++)
+        {
+            sum+=nums[right];
+            while(sum>k)
             {
-                count+=hs.get(rem);
+                sum-=nums[left];
+                left++;
             }
-            hs.put(prefixsum,hs.getOrDefault(prefixsum,0)+1);
+            count+=right-left+1;
         }
         return count;
-        
     }
 }
