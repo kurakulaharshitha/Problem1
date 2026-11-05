@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/kurakulaharshitha/Problem1/tree/master/1534-count-good-triplets) |
 | [1920-build-array-from-permutation](https://github.com/kurakulaharshitha/Problem1/tree/master/1920-build-array-from-permutation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kurakulaharshitha/Problem1/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kurakulaharshitha/Problem1/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3525-find-x-value-of-array-ii](https://github.com/kurakulaharshitha/Problem1/tree/master/3525-find-x-value-of-array-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/kurakulaharshitha/Problem1/tree/master/3665-twisted-mirror-path-count) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kurakulaharshitha/Problem1/tree/master/3875-construct-uniform-parity-array-i) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/kurakulaharshitha/Problem1/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kurakulaharshitha/Problem1/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kurakulaharshitha/Problem1/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3903-smallest-stable-index-i](https://github.com/kurakulaharshitha/Problem1/tree/master/3903-smallest-stable-index-i) |
 ## Depth-First Search
 |  |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/1254-number-of-closed-islands) |
 | [1314-matrix-block-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/1314-matrix-block-sum) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kurakulaharshitha/Problem1/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kurakulaharshitha/Problem1/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3665-twisted-mirror-path-count](https://github.com/kurakulaharshitha/Problem1/tree/master/3665-twisted-mirror-path-count) |
 ## Union-Find
 |  |
