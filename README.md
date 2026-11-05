@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kurakulaharshitha/Problem1/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/kurakulaharshitha/Problem1/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/kurakulaharshitha/Problem1/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/kurakulaharshitha/Problem1/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kurakulaharshitha/Problem1/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/kurakulaharshitha/Problem1/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/kurakulaharshitha/Problem1/tree/master/0500-keyboard-row) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/kurakulaharshitha/Problem1/tree/master/0304-range-sum-query-2d-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kurakulaharshitha/Problem1/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kurakulaharshitha/Problem1/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/kurakulaharshitha/Problem1/tree/master/0304-range-sum-query-2d-immutable) |
 | [0930-binary-subarrays-with-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/0930-binary-subarrays-with-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/kurakulaharshitha/Problem1/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kurakulaharshitha/Problem1/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kurakulaharshitha/Problem1/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/kurakulaharshitha/Problem1/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/kurakulaharshitha/Problem1/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kurakulaharshitha/Problem1/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/kurakulaharshitha/Problem1/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/kurakulaharshitha/Problem1/tree/master/0695-max-area-of-island) |
