@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/kurakulaharshitha/Problem1/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/kurakulaharshitha/Problem1/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kurakulaharshitha/Problem1/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1094-car-pooling](https://github.com/kurakulaharshitha/Problem1/tree/master/1094-car-pooling) |
 | [1254-number-of-closed-islands](https://github.com/kurakulaharshitha/Problem1/tree/master/1254-number-of-closed-islands) |
 | [1314-matrix-block-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/1314-matrix-block-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kurakulaharshitha/Problem1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/kurakulaharshitha/Problem1/tree/master/0412-fizz-buzz) |
+| [1094-car-pooling](https://github.com/kurakulaharshitha/Problem1/tree/master/1094-car-pooling) |
 | [1920-build-array-from-permutation](https://github.com/kurakulaharshitha/Problem1/tree/master/1920-build-array-from-permutation) |
 ## Tree
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kurakulaharshitha/Problem1/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/kurakulaharshitha/Problem1/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/kurakulaharshitha/Problem1/tree/master/1094-car-pooling) |
 ## Binary Tree
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kurakulaharshitha/Problem1/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kurakulaharshitha/Problem1/tree/master/0304-range-sum-query-2d-immutable) |
 | [0930-binary-subarrays-with-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/0930-binary-subarrays-with-sum) |
+| [1094-car-pooling](https://github.com/kurakulaharshitha/Problem1/tree/master/1094-car-pooling) |
 | [1314-matrix-block-sum](https://github.com/kurakulaharshitha/Problem1/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/kurakulaharshitha/Problem1/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kurakulaharshitha/Problem1/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kurakulaharshitha/Problem1/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/kurakulaharshitha/Problem1/tree/master/0274-h-index) |
 | [0922-sort-array-by-parity-ii](https://github.com/kurakulaharshitha/Problem1/tree/master/0922-sort-array-by-parity-ii) |
+| [1094-car-pooling](https://github.com/kurakulaharshitha/Problem1/tree/master/1094-car-pooling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kurakulaharshitha/Problem1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
