@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kurakulaharshitha/Problem1/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/kurakulaharshitha/Problem1/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/kurakulaharshitha/Problem1/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/kurakulaharshitha/Problem1/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/kurakulaharshitha/Problem1/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/kurakulaharshitha/Problem1/tree/master/0392-is-subsequence) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kurakulaharshitha/Problem1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/kurakulaharshitha/Problem1/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kurakulaharshitha/Problem1/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/kurakulaharshitha/Problem1/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kurakulaharshitha/Problem1/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/kurakulaharshitha/Problem1/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kurakulaharshitha/Problem1/tree/master/0160-intersection-of-two-linked-lists) |
